@@ -1,1 +1,0 @@
- git clone, git push, git pull, merge conflict , git branches, git commit
