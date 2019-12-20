@@ -1,0 +1,8 @@
+Single responsibility principle
+    It states that a class should have only one reason to change. Violation of single Responsibility principle.
+ For eg
+	let's take the class A which does the following operation:
+1) open the database connection
+2) Fetch data from database
+3) Write the data in an external file.
+ 
