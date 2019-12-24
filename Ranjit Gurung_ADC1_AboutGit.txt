@@ -1,0 +1,21 @@
+1.Git Clone:
+Git clone is primarily used to point to an existing repo and make a clone or copy of that repo at in a new 
+directory, at another location. The original repository can be located on the local filesystem or on remote 
+machine accessible supported protocols. The git clone command copies an existing Git repository.
+2.Git Push:
+Git gives you a lot of ways to refer to a commit but for most purpose you will just use the name of branch 
+with git push. Git push will push changes from all local branches to matchmaking branches. Git push mater 
+will push changes from the local master branch to the remote master branch.
+
+3.Git Pull:
+The Git pull command is used to fetch and download content from a remote repository and immediately update 
+the local repository to match that content. Merging remote upstream changes into your local repository is a 
+common task in Git based collaboration work flows.
+
+4.Git Branches:
+A branch in Git is simply a lightweight moveable pointer to one of the commits. The default branch name in 
+Git is master. As you start making commits, you are given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
+
+5.Git Commit:
+The commit command is used to save your changes to the local repository. Using ‘Git commit’ command only saves
+ a new commit object in the local Git repository. Exchanging commits has to be performed manually and explicitly.
