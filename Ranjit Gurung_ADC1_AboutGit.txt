@@ -14,8 +14,7 @@ common task in Git based collaboration work flows.
 
 4.Git Branches:
 A branch in Git is simply a lightweight moveable pointer to one of the commits. The default branch name in 
-Git is master. As you start making commits, you are given a master branch that points to the last commit you made.
- Every time you commit, the master branch pointer moves forward automatically.
+Git is master. As you start making commits, you are given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
 
 5.Git Commit:
 The commit command is used to save your changes to the local repository. Using ‘Git commit’ command only saves
